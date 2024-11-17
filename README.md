@@ -1,2 +1,2 @@
 # netfreak
-i am ayush sharma i am developer
+I am Ayush sharma I am developer
